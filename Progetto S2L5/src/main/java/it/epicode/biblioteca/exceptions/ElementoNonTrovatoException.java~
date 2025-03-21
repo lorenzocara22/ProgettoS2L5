@@ -1,0 +1,4 @@
+package it.epicode.biblioteca.exceptions;
+
+public class ElementoNonTrovatoException {
+}
